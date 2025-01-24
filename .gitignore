@@ -1,0 +1,4 @@
+src/vector_playground.egg-info/
+*swp
+*.pyc
+*/__pycache__/
